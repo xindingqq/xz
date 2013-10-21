@@ -1,4 +1,4 @@
-﻿22222232ssssssss988888
+﻿22222232ssssssss988888newnewnewne
 <%@ Page Title="" Language="C#" MasterPageFile="~/admindo/MasterPage.master" AutoEventWireup="true" CodeFile="AddData.aspx.cs" Inherits="admindo_AddData" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="head" Runat="Server">
